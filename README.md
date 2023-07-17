@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **Flutter and Firebase**
 
+- 💻 I’m currently working at **DweekStudios** as Laravel Developer
+
 - 👨‍💻 All of my projects are available at [https://manavadwani.netlify.app/](https://manavadwani.netlify.app/)
 
 - 📫 How to reach me **manavadwani00@gmail.com**
