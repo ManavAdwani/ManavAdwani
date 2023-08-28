@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **College Folks**
 
-- 🌱 I’m currently learning **Flutter and Firebase**
-
 - 💻 I’m currently working at **DweekStudios** as Laravel Developer
+
+- 🌱 I’m currently learning **Flutter and Firebase**
 
 - 👨‍💻 All of my projects are available at [https://manavadwani.netlify.app/](https://manavadwani.netlify.app/)
 
