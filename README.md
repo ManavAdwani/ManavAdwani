@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **College Folks**
 
-- 💻 I’m currently working at **DweekStudios** as Laravel Developer
+- 💻 I’m currently working at **DweekStudios** as Php Developer
 
 - 🌱 I’m currently learning **Flutter and Firebase**
 
