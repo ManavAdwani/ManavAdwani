@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manavadwani&label=Profile%20views&color=0e75b6&style=flat" alt="manavadwani" /> </p>
 
-- 🔭 I’m currently working on **College Folks**
+- 🔭 I’m currently working on **MunchMate** Project
 
 - 💻 I’m currently working at **DweekStudios** as Php Developer
 
