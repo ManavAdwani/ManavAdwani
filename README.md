@@ -3,6 +3,8 @@
 <h3 align="center">A passionate Full Stack Website developer from India.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+[![An image of @manavadwani's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/manavadwani)](https://holopin.io/@manavadwani)
+
 - 🔭 I’m currently working on **MunchMate** Project
 
 - 💻 I’m currently working at **DweekStudios** as Php Developer
