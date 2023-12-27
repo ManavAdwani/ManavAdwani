@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Flutter and Firebase**
 
-- 👨‍💻 All of my projects are available at[(http://lnkiy.in/manav-adwani)]
+- 👨‍💻 All of my projects are available at ['manav-adwani.super.site']
 
 - 📫 How to reach me **manavadwani00@gmail.com**
 
