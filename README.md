@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **MunchMate** Project
 
-- 💻 I’m currently working at **DweekStudios** as Php Developer
+- 💻 I’m currently working at **DweekStudios** as Backend Developer
 
 - 🌱 I’m currently learning **Flutter and Firebase**
 
